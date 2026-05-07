@@ -13,6 +13,15 @@ Hi, I am learning GitHub step by step.
 - Use pull requests
 - Build my own coding portfolio
 
+## Files in this repository
+
+- README.md: Introduction of this repository
+- notes.md: My GitHub learning notes
+
 ## Current progress
 
-Lesson 1: Created my first GitHub repository.
+- Lesson 1: Created my first GitHub repository.
+- Lesson 2: Submit / Revise Files
+
+
+
