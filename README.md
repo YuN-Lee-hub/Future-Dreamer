@@ -22,6 +22,6 @@ Hi, I am learning GitHub step by step.
 
 - Lesson 1: Created my first GitHub repository.
 - Lesson 2: Submit / Revise Files
-
+- Lesson 3: I learned how to view commit history on GitHub.
 
 
